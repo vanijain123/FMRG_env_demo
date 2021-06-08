@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{E7665C86-A1BC-80C5-6A3E-B722C34B0FA3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LoadingOverlay.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MenuSelection.cs" Line="29" Column="41" />
+      <File FileName="../../../../Spring2021/COMS4172_3DUI/FinalProject/final_prototyping/Assets/Scripts/PointerController.cs" Line="412" Column="58" />
+      <File FileName="Assets/Scripts/MenuSelectionByHand.cs" />
+      <File FileName="Assets/Scripts/LaserScript.cs" />
+      <File FileName="Assets/Scripts/LoadingOverlay.cs" Line="92" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestApp" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="LoadingOverlay.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="04922cb9-13a2-48c6-9b45-f3146c66174e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
